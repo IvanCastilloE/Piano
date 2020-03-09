@@ -19,6 +19,18 @@
         <Button Content="" HorizontalAlignment="Left" Margin="332,10,0,0" VerticalAlignment="Top" Width="68" Height="215" Background="Black"/>
         <Button Content="" HorizontalAlignment="Left" Margin="421,10,0,0" VerticalAlignment="Top" Width="68" Height="215" Background="Black"/>
         <Button Content="" HorizontalAlignment="Left" Margin="509,10,0,0" VerticalAlignment="Top" Width="68" Height="215" Background="Black"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,361,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="135,361,0,0" TextWrapping="Wrap" Text="D" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="220,361,0,0" TextWrapping="Wrap" Text="E" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="312,361,0,0" TextWrapping="Wrap" Text="F" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="400,361,0,0" TextWrapping="Wrap" Text="G" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="490,361,0,0" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="577,361,0,0" TextWrapping="Wrap" Text="B" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="86,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Foreground="White"><Run Text="C"/><Run Text="#"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="174,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Foreground="White"><Run Text="D"/><Run Text="#"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="352,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Foreground="White"><Run Text="F"/><Run Text="#"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="440,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Foreground="White"><Run Text="G"/><Run Text="#"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="529,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Foreground="White"><Run Text="A"/><Run Text="#"/></TextBlock>
 
     </Grid>
 </Window>
